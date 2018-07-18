@@ -1,0 +1,26 @@
+html{
+	height: 100%;
+}
+hr{
+	width: 400px !important;
+	border:solid 1px white !important;
+}
+h1{
+	color: white !important;
+	font-weight: 650 !important;
+	font-size: 5em !important;
+}
+h4{
+	color: white !important;
+}
+body{
+	background-image: url(https://images.unsplash.com/photo-1518914781460-a3ada465edec?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4ef5d25894ba45b504a8335e1faf50ca&auto=format&fit=crop&w=1050&q=80);
+	align-self: : center;
+	background-size: cover;
+	background-position: center;
+}
+.content{
+	text-align: center;
+	padding-top: 10%;
+	font-family: Roboto Condensed, sans-serif;
+}
